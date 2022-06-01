@@ -1,6 +1,6 @@
 # Santander Bootcamp Fullstack Developer
 
-<p al>
+<p align="center">
   <img src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" weight="300px" height="300px"/>
 </p>
 
